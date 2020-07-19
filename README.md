@@ -1,7 +1,7 @@
 ## This is a Small Tribute to late British Actress Audrey Hepburn
 
 Audrey Kathleen Hepburn was born on May 4,1929 Brussels Belgium. This British actress and humanitarian taught what real beauty looks like.
-Her work includes iconic movies like:
+  Her work includes iconic movies like:
 
   > * Breakfast at Tiffany's (1961) 
   > * Charade (1963)
@@ -15,8 +15,9 @@ Her work includes iconic movies like:
   
   
  She won a oscar, a Golden Globe, and a BAFTA for her role in the hit romantic comedy *Roman Holidy* alongside Gegory Peck. She went on to
- star in several hit movies. Audience got attaracted towards her elegance and recognised her as the Golden Girl of Hollywood. Apart from 
- proving herself in the world of cinema she also didecate much of her life to those who were voiceless. She believed it was not her role 
+ star in several hit movies. Audience got attaracted towards her elegance and recognised her as the Golden Girl of Hollywood. 
+ 
+ Apart from proving herself in the world of cinema she also didecate much of her life to those who were voiceless. She believed it was not her role 
  but a duty of hers to speak up. 
 ### Markdown
 
