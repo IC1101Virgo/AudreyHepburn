@@ -5,14 +5,19 @@ Her work includes iconic movies like:
 
   > * Breakfast at Tiffany's (1961) 
   > * Charade (1963)
-  >Sabrina (1954)
-  >Roman Holiday (1953)
-  >The Children's Hour (1961) 
-  >My Fair Lady (1964)
-  >Paris When It Sizzles (1964)
-  >The Nun's Story (1959)
-  >Funny Face (1957)
+  > * Sabrina (1954)
+  > * Roman Holiday (1953)
+  > * The Children's Hour (1961) 
+  > * My Fair Lady (1964)
+  > * Paris When It Sizzles (1964)
+  > * The Nun's Story (1959)
+  > * Funny Face (1957)
   
+  
+ She won a oscar, a Golden Globe, and a BAFTA for her role in the hit romantic comedy *Roman Holidy* alongside Gegory Peck. She went on to
+ star in several hit movies. Audience got attaracted towards her elegance and recognised her as the Golden Girl of Hollywood. Apart from 
+ proving herself in the world of cinema she also didecate much of her life to those who were voiceless. She believed it was not her role 
+ but a duty of hers to speak up. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
