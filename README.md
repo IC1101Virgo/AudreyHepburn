@@ -18,35 +18,8 @@ Audrey Kathleen Hepburn was born on May 4,1929 Brussels Belgium. This British ac
  star in several hit movies. Audience got attaracted towards her elegance and recognised her as the Golden Girl of Hollywood. 
  
  Apart from proving herself in the world of cinema she also didecate much of her life to those who were voiceless. She believed it was not her role 
- but a duty of hers to speak up. 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IC1101Virgo/AudreyHepburn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ but a duty of hers to speak up.
+ 
+ Please Checkout The Complete Website [Click Here](https://ic1101virgo.github.io/AudreyHepburn/)
+ 
+ 
