@@ -23,8 +23,11 @@ Audrey Kathleen Hepburn was born on May 4,1929 Brussels Belgium. This British ac
  She won a oscar, a Golden Globe, and a BAFTA for her role in the hit romantic comedy *Roman Holidy* alongside Gegory Peck. She went on to
  star in several hit movies. Audience got attaracted towards her elegance and recognised her as the Golden Girl of Hollywood. 
  
- Apart from proving herself in the world of cinema she also didecate much of her life to those who were voiceless. She believed it was not her role 
- but a duty of hers to speak up.
+ Apart from proving herself in the world of cinema she also dedicated much of her life to those who were voiceless. She believed it was not her role 
+ but a duty of hers to speak up. 
+  
+  ![Audrey Hepburn](https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/07/09/Pictures/_2a82128c-a227-11e9-85f3-0f8400bbe260.jpg)
+  
  
  
  
