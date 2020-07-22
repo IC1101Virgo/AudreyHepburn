@@ -27,7 +27,7 @@ Audrey Kathleen Hepburn was born on May 4,1929 Brussels Belgium. This British ac
  Apart from proving herself in the world of cinema she also dedicated much of her life to those who were voiceless. She believed it was not her role 
  but a duty of hers to speak up. 
   
- ![Young Audrey](https://i.pinimg.com/originals/9d/7e/28/9d7e285cedea3537465d8b05208e5314.jpg)
+ ![Young Audrey](https://art-sheep.com/wp-content/uploads/2015/04/YoungAudreyHepburn17.jpg)
    
  ## Early Life
  During World War II she lived in Netherland
