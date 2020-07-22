@@ -1,8 +1,9 @@
 ## This GitHub Page Is Still Under Work 
 
 Please Checkout The Website [Click Here](https://ic1101virgo.github.io/AudreyHepburn/)
- 
 
+![Audrey Hepburn](https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/07/09/Pictures/_2a82128c-a227-11e9-85f3-0f8400bbe260.jpg)
+ 
 
 ## This is a Small Tribute to late British Actress Audrey Hepburn
 
@@ -26,7 +27,11 @@ Audrey Kathleen Hepburn was born on May 4,1929 Brussels Belgium. This British ac
  Apart from proving herself in the world of cinema she also dedicated much of her life to those who were voiceless. She believed it was not her role 
  but a duty of hers to speak up. 
   
-  ![Audrey Hepburn](https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/07/09/Pictures/_2a82128c-a227-11e9-85f3-0f8400bbe260.jpg)
+ ![Young Audrey](https://i.pinimg.com/originals/9d/7e/28/9d7e285cedea3537465d8b05208e5314.jpg)
+   
+ ## Early Life
+ During World War II she lived in Netherland
+ 
   
  
  
